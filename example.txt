@@ -1,0 +1,5 @@
+This is the result of writeFileSync
+This is the result of appendFileSync
+Hello my name is Muhammad Aldi Surya Putra
+I am 22 years old
+and Fuckyou
